@@ -1,0 +1,16 @@
+{
+  "name": "chatter-box",
+  "version": "1.0.0",
+  "description": "chatting app",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "Arun Choudhary",
+  "license": "ISC",
+  "dependencies": {
+    "dot-env": "^0.0.1",
+    "express": "^5.1.0",
+    "nodemon": "^3.1.9"
+  }
+}
